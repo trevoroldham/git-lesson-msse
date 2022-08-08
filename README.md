@@ -10,3 +10,7 @@ To make a commit("version" or "checkpoint") of your files, follow this procedure
 
 3. Create a checkpoint using `git commit -m "message about what you changed"`
 
+## adding features
+Features should be developed on branches. To create and switch to a branch, use the command `git switch -c new_branch_name`
+
+To switch to an existing branch, use `git switch bramnch name`
